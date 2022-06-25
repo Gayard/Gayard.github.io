@@ -37,7 +37,7 @@ nav{
 .main{
     width: 100%;
     height: calc(100% - 60px);
-    background: url(../img/ike.png) 90% 100%/auto 85% no-repeat, url(../img/bg.jpg) center/cover no-repeat;
+    background: url(../img/ike.png) 93% 80%/auto 85% no-repeat, url(../img/bg.jpg) center/cover no-repeat;
 
 }
 .title__container{
@@ -74,3 +74,38 @@ nav{
     cursor: pointer;
     margin: 50px 14px 0px 14px;
 }
+
+.info h2{
+    font-size: 31px;
+    text-align: center;
+    margin-bottom:30px ;
+    margin-top: 70px;
+}
+.info hr{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.info p{
+    text-align: center;
+    background: url(../img/BG.jpg) round;
+    width: 290px;height: 335px;
+    border-radius: 45%;
+   display: block;
+  margin: 0 auto;
+}
+.info h4{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+}
+.info a{
+   text-align: center;
+    padding-top: 170px;
+    width: 100%;
+    background: url(../img/cat.png)round;
+    width: 200px;height: 15px;
+    display: block;
+    margin: 0 auto;
+}
+
