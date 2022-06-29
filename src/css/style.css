@@ -362,3 +362,132 @@ font-size: 30px;
     margin-bottom:200px ;
     margin-top: 30px;
 }
+.contacts{
+    background: url(../img/%D0%A4%D0%BE%D0%BD%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82.jpg) center/cover no-repeat;
+    color: white;
+}
+
+.contacts_container{
+    width: 734px;
+    margin: 0 auto;
+    padding-bottom: 68px;
+}
+
+.contacts_container h2{
+    text-align: center;
+    width: 390px;
+    font-size: 33px;
+    margin: 0px auto 30px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    padding-top: 100px;
+}
+
+.contacts_container hr{
+    height: 4px;
+    border: none;
+    background: #d17700;
+    width: 80px;
+    margin: 0 auto 32px;
+}
+
+.contacts_subscription{
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 48px;
+}
+
+.contacts_data_item{
+    float: left;
+    width: 154px;
+    text-align: center;
+    margin: 0 45px;
+}
+
+.contacts_data_item img{
+    height: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.contacts_data_item p{
+    font-size: 16px;
+}
+
+.contacts_container h3{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 43px;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.contacts_inputs input{
+    display: block;
+    width: 352px;
+    float: left;
+    height: 34px;
+    padding-left: 14px;
+    margin-bottom: 14px;
+    background: rgba(210, 214, 220, 0.93);
+    font-size: 16px;
+}
+
+.contacts_inputs .secondInput{
+    float: right;
+}
+
+.contacts_container textarea{
+    display: block;
+    width: 100%;
+    resize: none;
+    padding-top: 10px;
+    padding-left: 15px;
+    background: rgba(220, 224, 230, 0.93);
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.contacts_container input[type="submit"]{
+    display: block;
+    margin: 0 auto;
+    background: none;
+    color: white;
+    border: 2px solid white;
+    height: 46px;
+    width: 124px;
+    border-radius: 8px;
+    font-size: 20px;
+    margin-bottom: 76px;
+}
+
+.contacts_social{
+    width: 422px;
+    margin: 0 auto;
+    
+}
+
+.contacts_social a{
+    display: block;
+    float: left;
+    margin: 0 20px;
+}
+.contacts_social img{
+    height: 30px;
+}
+
+.map img{
+    display: block;
+    width: 100%;  
+}
+
+.footer{
+    background: #354051;
+    height: 94px;
+}
+
+.footer_container{
+    text-align: center;
+    line-height: 94px;
+    color: white;
+}
