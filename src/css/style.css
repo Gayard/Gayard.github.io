@@ -76,7 +76,7 @@ nav{
 }
 
 .info h2{
-    font-size: 31px;
+    font-size: 35px;
     text-align: center;
     margin-bottom:30px ;
     margin-top: 70px;
@@ -86,37 +86,37 @@ nav{
     margin: 0 auto;
     margin-bottom: 100px;
 }
-.info p{
+.info img{
     text-align: center;
     background: url(../img/BG.jpg) round;
-    width: 290px;height: 335px;
-    border-radius: 45%;
+    width: 205px;height: 303px;
+    border-radius:100%;
    display: block;
   margin: 0 auto;
 }
 .info h4{
     text-align: center;
     font-size: 30px;
-    padding-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 .info a{
    text-align: center;
-    padding-top: 170px;
-    width: 100%;
-    background: url(../img/cat.png)round;
-    width: 200px;height: 15px;
+    padding-top: 50px;
+    background: url(../img/dar.png)round;
+    width:50px;height:30px;
     display: block;
     margin: 0 auto;
 }
 .skills{
     margin-top: 100px;
     background: url(../img/BJ.jpg)center/cover no-repeat;
-width: 100%;
+    width: 100%;
     height: 520px;
 }
 .wish h2{
     text-align: center;
-    font-size: 31px;
+    font-size: 35px;
     text-transform:  uppercase;
     padding-top: 100px;
     
@@ -135,7 +135,7 @@ width: 100%;
     margin: 0 60px;
 }
 .more_skills img{
- margin-bottom: 10px;
+ margin-bottom: 0px;
 
 }
 .more_skills p{
@@ -145,6 +145,220 @@ width: 100%;
 .more_skills h4{
     color: #d17700;
     font-size: 18px;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
+}
+.package{
+    padding-top: 50px;
+    padding-bottom: 150px;
     
+}
+.package img{
+    height: 570px;
+    width: 100%;
+}
+.cage{
+     width: 1170px;
+    margin: 0 auto;
+}
+.cage h2{
+    text-align: center;
+    font-size: 35px;
+    text-transform:  uppercase;
+    padding-top: 100px;
+    
+}
+.cage hr{
+    height: 8px;
+    border: none;
+    width: 83px;
+    margin: 33px auto 50px;
+}
+.cage h5{
+    padding-bottom: 60px;
+     text-align: center;
+    font-size: 18px;
+}
+.short{
+    padding-top:100px;
+    width: 200px;
+    float: left;
+    margin-right: 82px;
+}
+.short h4{
+    font-size: 25px;
+}
+.short p{
+    font-size: 17px;
+    margin: 16px 0;
+}
+.short a{
+    margin-top: 25px;
+    display: block;
+    width: 100%;
+    background: #63b5ae;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.long{
+    margin-top: 100px;
+}
+.long h4{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.long p{
+    font-size: 20px;
+}
+.prace{
+      margin-top: 100px;
+}
+.prace_menu{
+    width: 1100px;
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+    margin: 0 auto;
+    padding-top: 80px;
+    height: 800px;
+}
+.prace_menu h2{
+     text-align: center;
+    width: 360px;
+    font-size: 40px;
+    margin: 0px auto 50px;  
+}
+.pracepm{
+    width: 900px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+.pracepm h3{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+.pracepm select{
+    margin-bottom: 45px;
+}
+
+.select{
+  display: block;
+    width: 900px;
+    height: 55px;
+    background: #eeeeee;
+    padding-left: 25px;
+    font-size: 18px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background:  url(../img/%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0.png) 98% 54%/auto no-repeat,#eee;
+}
+.time_mani{
+    margin-top: 20px;
+    font-size: 22px;
+}
+.time{
+    float: left;
+    font-size:23px;
+    line-height: 43px;
+}
+.mani{
+    float: right;
+    padding-left: 200px;
+    font-size:28px;
+    line-height: 40px;
+}
+.statistics{
+    margin-top:85px;
+    height: 550px;
+    background: url(../img/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg) no-repeat;
+}
+.station{
+    width: 1094px;
+    margin: 0 auto;
+    padding-top: 100x;
+    padding-bottom: 96px;
+}
+.statistics h2{
+    text-transform: uppercase;
+    padding-top:95px;
+    font-size: 33px;
+    text-align: center;
+}
+.statistics hr{
+     height: 6px;
+    border: none;
+    background: #d17700;
+    width: 80px;
+    margin: 0 auto 90px;
+    margin-top: 25px;
+}
+.stat{
+    float: left;
+    width: 200px;
+    text-align: center;
+    margin: 0 36px;
+}
+
+.stat img{
+    width: 50px;
+    margin-bottom: 40px;
+    height: 50px;
+}
+.stat h3{
+    font-size: 33px;
+    color: #323e4f;
+    margin-bottom: 20px;
+}
+.stat p{
+    font-size: 17px;
+}
+.stat_item img{
+    padding-left: 100px;
+}
+.stat_item h4{
+font-size: 30px;
+    color: #323e4f;
+   margin-top: 42px;
+}
+.stat_item p{
+    font-size: 17px;
+    padding-top: 18px;
+}
+.reviews h2{
+    font-size: 34px;
+    text-align: center;
+    margin-bottom:40px ;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+    
+.reviews hr{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+.reviews img{
+    text-align: center;
+    background: url(../img/BG.jpg) round;
+    width: 135px;height: 105px;
+    border-radius:100%;
+   display: block;
+  margin: 0 auto;
+}
+.reviews h5{
+     font-size: 17px;
+    text-align: center;
+    margin-bottom:40px ;
+    margin-top: 50px;
+}
+.reviews p{
+     font-size: 17px;
+    text-align: center;
+    margin-bottom:200px ;
+    margin-top: 30px;
 }
