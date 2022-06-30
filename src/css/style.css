@@ -37,7 +37,7 @@ nav{
 .main{
     width: 100%;
     height: calc(100% - 60px);
-    background: url(../img/ike.png) 93% 80%/auto 85% no-repeat, url(../img/bg.jpg) center/cover no-repeat;
+    background: url(../img/ike.png) 93% 80%/auto 85% no-repeat, url(../img/BG.jpg) center/cover no-repeat;
 
 }
 .title__container{
@@ -368,7 +368,7 @@ font-size: 30px;
 }
 
 .contacts_container{
-    width: 734px;
+    width: 750px;
     margin: 0 auto;
     padding-bottom: 68px;
 }
